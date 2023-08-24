@@ -1,5 +1,5 @@
 # Layout
-Bootcamp de Desarrollo Web "Programando Paraguay"
+Diseño de una tienda "home", donde puedes movilizar las imagenes e ir cargando en sus lugares.
 
 ## Javascript
-Excelente proyecto para aprender a manipular el DOM, donde puedes mover las imagenes para simular una tienda.
+Proyecto donde practiqué habilidades con el manejo del DOM
